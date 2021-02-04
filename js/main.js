@@ -60,7 +60,7 @@ function navHam(){
 
 /*Typed Animation*/
 var typed = new Typed('#typed', {
-    strings: ["Web Developer", "Programmer", "Blogger"],
+    strings: ["Web Developer", "Programmer", "Blogger","Designer"],
     backSpeed: 50,
     typeSpeed: 120,
     loop: true,
